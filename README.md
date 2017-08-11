@@ -5,9 +5,9 @@ created using VIM on WSL.
 
 # Vim, You Complete Me
 
-You complete me requires a complication database in order to provide
-intelligent code help. These commands will generate the database and a symbolic
-link in the root directory to the database.
+You complete me requires a compilation database in order to provide intelligent
+code help. The commands below generate a database and a symbolic link in the
+root directory so YCM can find it.
 
 ```bash
 mkdir build
